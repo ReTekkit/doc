@@ -79,7 +79,7 @@ There are 5 official Tekkit modpacks on Technic, each are on different versions 
 	2. ComputerCraft: Tweaked (CC:T)
 	3. Chisel
 	4. Chisels & Bits
-	5. Forestry2
+	5. Forestry
 	6. Galacticraft
 	7. IC2 Classic (IC2C)
 	8. Industrial Foregoing (IF)
@@ -227,6 +227,7 @@ Taking the above information *all* into account, we can comprise what I think is
 > A lot of this information will be the same from or similar to the information in [[#Mods to be Recreated/Ported/Reimagined/etc]].
 
 *Mods in need of ports*
+
 - IndustrialCraft 2
 	- Industrial Reforged by ThePigCat
 - MineFactory Reloaded
@@ -258,6 +259,9 @@ Taking the above information *all* into account, we can comprise what I think is
 	- **No potential candidates as of now**
 - qCraft
 	- **No potential candidates as of now**
-*Mods with ports*
+
+*Mods with ports or have been maintained since*
+
 - ComputerCraft: Tweaked
 - Balkon's Weapon Mod: Legacy
+- Dimensional Doors
