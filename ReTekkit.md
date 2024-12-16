@@ -252,7 +252,7 @@ Taking the above information *all* into account, we can comprise what I think is
 	- Mystcraft: Ageless by MyNamesRaph
 - Applied Energistics
 	- Applied Energistics 2 by shartte (may need tweaks to make it more akin to Applied Energistics)
- - Refined Storage by Refined Mods
+	- Refined Storage by Refined Mods
 - BuildCraft
 	- Buildcraft Legacy by ThePigCat
 	- BuildCraft official (still WIP, I do not even know if they are targeting 1.21.1 right now)
