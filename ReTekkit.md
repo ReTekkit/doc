@@ -20,7 +20,7 @@ A modern (NeoForge 1.21.1 probably) modpack aiming to recreate and update Tekkit
 ## Notes
 
 - If I refer to "Tekkit" I am most often referring to the 1.6.4 modpack. I will use "Tekkit modpacks" or "modpacks" to refer to each modpack more often than not.
-- I use a LOT of abbreviations for mod names. When I mention a mod's name for the first time, it will be its full name accompanied by the abbreviation in parenthesis. From then on I will probably use the abbreviations. If you are still having trouble, here's a table: [[]]
+- I use a LOT of abbreviations for mod names. When I mention a mod's name for the first time, it will be its full name accompanied by the abbreviation in parenthesis. From then on I will probably use the abbreviations.
 
 ## Modpack Goals
 
@@ -144,18 +144,19 @@ The huge tables and lists above describe lots of the mods in the official packs,
 A lot of the mods in the original packs are not updated to modern versions. However some have been reimagined, ported, or maintained since then. ReTekkit will fill in the gaps though :D
 
 By analyzing the data above, there are a handful of mods that should most definitely be included (excluding addons). These are:
-- IC2(C)
-- MFR
-- CC(:T)
+- IndustrialCraft 2 (Classic)
+- MineFactory Reloaded
+- ComputerCraft(: Tweaked)
 - EE2/EE3/ProjectE
-- MPS
+- Modular Power Suits
 - RedPower/BluePower/Project Red
 - Galacticraft
 - Steve's Carts
 - MFFS
 - Mystcraft
-- AE
-- BC
+- Applied Energistics
+- BuildCraft
+- RailCraft
 
 A lot of these will need to be made from scratch!!
 
@@ -197,7 +198,7 @@ There is a LOT of info about the mods for ReTekkit, so here's a little table of 
 - AE
 	- AE2 is quite a lot more complicated than AE was, so perhaps we can make a custom version. Refined Storage also exists and is more akin to AE.
 - BC
-	- BuildCraft is very slowly being updated, but I know nothing about how long it will take, who all is working on it, what version they are targeting, etc.
+	- BuildCraft is very slowly being updated, but I know nothing about how long it will take.
 	- ThePigCat is working on a mod called Buildcraft Legacy, which seems like it would fit *very* nicely into ReTekkit.
 - Logistics Pipes
 	- After we get a BC version, we can start on a Logistics Pipe port/update
@@ -216,6 +217,7 @@ There is a LOT of info about the mods for ReTekkit, so here's a little table of 
 
 - JEI
 	- JEI clogs up the keybinds menu and if we can use EMI *without* JEI then we should
+	- Update: Too Many Recipe Viewers means that we don't need JEI whatsoever.
 - ProjectE
 	- Whilst it is a great reimagining of EE2, it is absurdly overpowered and tedious to configure. Making a custom port from scratch would probably be a better option.
 	- The Tekkit modpacks that did not include ProjectE used EE2 or EE3, which were both overpowered but much less so than ProjectE ever has been (*in my experiences*).
@@ -241,7 +243,8 @@ Taking the above information *all* into account, we can comprise what I think is
 	- More Red by Commoble (only updated on CurseForge. More Red does not add quite everything from RedPower, so we may want to look into that too if we utilize More Red)
 - Galacticraft
 	- Ad Astra by Terrarium (very different from original Galacticraft)
-	- Galacticraft on 1.21.1 (still WIP, I do not even know if they are targeting 1.21.1 right now)
+	- Galacticraft on 1.21.1 (still WIP and targeting Fabric right now. When I last checked, NeoForge was planned after Fabric gets released. Additionally, they may update from 1.21.1 before it even gets released on that version)
+	- Cygnus by Nebula is in development (also very different from original Galacticraft)
 	- Stellaris by The Stellaris Team (very similar to Ad Astra and by extension, very different from Galacticraft)
 	- Gregicality Rocketry by screret (just kidding, this needs gregtech)
 - Steve's Carts
@@ -251,11 +254,11 @@ Taking the above information *all* into account, we can comprise what I think is
 - Mystcraft
 	- Mystcraft: Ageless by MyNamesRaph
 - Applied Energistics
-	- Applied Energistics 2 by shartte (may need tweaks to make it more akin to Applied Energistics)
+	- Applied Energistics 2 by shartte (may need tweaks to make it more akin to the original Applied Energistics)
 	- Refined Storage by Refined Mods
 - BuildCraft
 	- Buildcraft Legacy by ThePigCat
-	- BuildCraft official (still WIP, I do not even know if they are targeting 1.21.1 right now)
+	- BuildCraft official (still WIP)
 - Logistics Pipes
 	- **No potential candidates as of now**
 - qCraft

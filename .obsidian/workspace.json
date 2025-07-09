@@ -11,13 +11,14 @@
             "id": "92c52e66c64b2685",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ReTekkit.md",
-                "staged": false
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (ReTekkit)"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -39,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
